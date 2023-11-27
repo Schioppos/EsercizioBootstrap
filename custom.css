@@ -1,0 +1,15 @@
+.custom-column {
+    background-color: #007bff; /* Colore blu */
+    color: #fff; /* Testo bianco */
+    padding: 3rem; /* Padding 3 */
+  }
+  .custom-column2 {
+    background-color: #f6ff00; /* Colore blu */
+    color: #000000; /* Testo bianco */
+    padding: 3rem; /* Padding 3 */
+  }
+  .custom-column3 {
+    background-color: #00eb3b; /* Colore blu */
+    color: #000000; /* Testo bianco */
+    padding: 3rem; /* Padding 3 */
+  }
